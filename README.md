@@ -23,14 +23,14 @@
 const tymour = {
   role:      "Founder & Engineer @ ETK Technologies",
   location:  "Cairo, Egypt 🇪🇬",
-  building:  ["Hark — all-in-one customer platform", "ETK Pulse — HR/payroll SaaS", "DictaPulse — offline AI dictation"],
+  building:  ["Hark: all-in-one customer platform", "ETK Pulse: HR/payroll SaaS", "DictaPulse: offline AI dictation"],
   stack:     ["TypeScript", "React/Next.js", "Node", "C++/Qt", "PHP", "Prisma/Postgres"],
   focus:     "ship fast, keep it clean, sweat the details",
   currently: "scaling SaaS infra + shipping AI that runs on-device",
 };
 ```
 
-I run **[ETK Technologies](https://etk-tech.com)** and stay hands-on in the codebase — from production e-commerce and marketing analytics down to native desktop apps and on-device AI. I care about products that are genuinely fast, well-architected, and a pleasure to use.
+I run **[ETK Technologies](https://etk-tech.com)** and stay hands-on in the codebase, from production e-commerce and marketing analytics down to native desktop apps and on-device AI. I care about products that are genuinely fast, well-architected, and a pleasure to use.
 
 <!-- ====================== TECH STACK ====================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Tech I build with
@@ -51,7 +51,7 @@ I run **[ETK Technologies](https://etk-tech.com)** and stay hands-on in the code
 <td width="50%" valign="top">
 
 ### 🎙️ DictaPulse
-Local, fully-offline AI voice dictation for **KDE Plasma 6 (Wayland)** — press a shortcut, speak, get polished text in any app. Powered by `whisper.cpp`.
+Local, fully-offline AI voice dictation for **KDE Plasma 6 (Wayland)**: press a shortcut, speak, get polished text in any app. Powered by `whisper.cpp`.
 
 `C++` · `Qt 6 / QML` · `whisper.cpp`
 
@@ -61,7 +61,7 @@ Local, fully-offline AI voice dictation for **KDE Plasma 6 (Wayland)** — press
 <td width="50%" valign="top">
 
 ### 📬 Hark
-All-in-one customer platform — helpdesk, feedback, roadmap, changelog & help center — built as a modern Turborepo monorepo.
+All-in-one customer platform (helpdesk, feedback, roadmap, changelog & help center), built as a modern Turborepo monorepo.
 
 `TypeScript` · `Next.js` · `Turborepo`
 
