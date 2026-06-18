@@ -131,5 +131,5 @@ A next-gen smart assistant designed to think ahead, act fast, and support everyt
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:22D3EE,70:7C3AED,100:0D1117&height=120&section=footer" alt="" />
 
 <div align="center">
-  <sub>⚡ <i>“Ship fast, keep it clean.”</i> &nbsp;•&nbsp; Built with ☕ in Cairo</sub>
+  <strong>⚡ <i>“Ship fast, keep it clean.”</i> &nbsp;•&nbsp; Built with ☕ in Cairo</strong>
 </div>
