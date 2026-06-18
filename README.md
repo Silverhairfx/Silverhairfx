@@ -10,7 +10,7 @@
 
 <!-- ====================== SOCIAL / CONTACT ====================== -->
 <a href="https://etk-tech.com"><img src="https://img.shields.io/badge/Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Website" /></a>
-<a href="mailto:tymour@etk-tech.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:tymourkadry@etk-tech.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Silverhairfx"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=Silverhairfx&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
