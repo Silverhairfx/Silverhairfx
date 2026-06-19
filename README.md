@@ -37,9 +37,27 @@ I run **[ETK Technologies](https://etk-tech.com)** and stay hands-on in the code
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,redis&theme=dark" alt="stack 1" />
+<a href="https://www.typescriptlang.org" title="TypeScript"><img height="48" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img height="48" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+<a href="https://react.dev" title="React"><img height="48" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
+<a href="https://nextjs.org" title="Next.js"><img height="48" src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" /></a>
+<a href="https://nodejs.org" title="Node.js"><img height="48" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
+<a href="https://tailwindcss.com" title="Tailwind CSS"><img height="48" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
+<a href="https://www.prisma.io" title="Prisma"><img height="48" src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma" /></a>
+<a href="https://www.postgresql.org" title="PostgreSQL"><img height="48" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
+<a href="https://redis.io" title="Redis"><img height="48" src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" /></a>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,qt,php,laravel,python,dart,flutter,docker,git&theme=dark" alt="stack 2" />
+
+<a href="https://isocpp.org" title="C++"><img height="48" src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>
+<a href="https://www.qt.io" title="Qt"><img height="48" src="https://skillicons.dev/icons?i=qt&theme=dark" alt="Qt" /></a>
+<a href="https://www.php.net" title="PHP"><img height="48" src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
+<a href="https://laravel.com" title="Laravel"><img height="48" src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" /></a>
+<a href="https://www.python.org" title="Python"><img height="48" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+<a href="https://dart.dev" title="Dart"><img height="48" src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" /></a>
+<a href="https://flutter.dev" title="Flutter"><img height="48" src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" /></a>
+<a href="https://www.docker.com" title="Docker"><img height="48" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
+<a href="https://git-scm.com" title="Git"><img height="48" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
 
 </div>
 
