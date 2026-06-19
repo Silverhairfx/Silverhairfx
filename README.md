@@ -12,6 +12,7 @@
 <a href="https://etk-tech.com"><img src="https://img.shields.io/badge/Website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Website" /></a>
 <a href="mailto:tymourkadry@etk-tech.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Silverhairfx"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+<a href="https://github.com/ETK-Technologies"><img src="https://img.shields.io/badge/ETK%20Technologies-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="ETK Technologies on GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=Silverhairfx&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
@@ -30,7 +31,7 @@ const tymour = {
 };
 ```
 
-I run **[ETK Technologies](https://etk-tech.com)** and stay hands-on in the codebase, from production e-commerce and marketing analytics down to native desktop apps and on-device AI. I care about products that are genuinely fast, well-architected, and a pleasure to use.
+I run **[ETK Technologies](https://etk-tech.com)** ([org on GitHub](https://github.com/ETK-Technologies)) and stay hands-on in the codebase, from production e-commerce and marketing analytics down to native desktop apps and on-device AI. I care about products that are genuinely fast, well-architected, and a pleasure to use.
 
 <!-- ====================== TECH STACK ====================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Tech I build with
