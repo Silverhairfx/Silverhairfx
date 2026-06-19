@@ -98,16 +98,11 @@ A next-gen smart assistant designed to think ahead, act fast, and support everyt
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silverhairfx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22D3EE&icon_color=7C3AED&text_color=c9d1d9&bg_color=0D1117" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=Silverhairfx&theme=highcontrast&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=22D3EE" alt="GitHub contribution stats" />
+
+<br/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silverhairfx&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=c9d1d9&bg_color=0D1117" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Silverhairfx&theme=highcontrast&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=22D3EE" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Silverhairfx&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
